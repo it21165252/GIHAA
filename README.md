@@ -1,4 +1,4 @@
-<!--### Hey 👋, I'm GIHAA-->
+<!--### Hey 👋, I'm GIHAA
 
 
 <p align="center">
@@ -53,7 +53,7 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
-
+<!--
 <br>
 <br>
 <br>
@@ -75,4 +75,4 @@ Hi there, I'm **Gihan sudeepa**, a **Robotics enthusiast** and a **Software Engi
 
 ![GIHAA's github stats](https://github-readme-stats.vercel.app/api?username=GIHAA&show_icons=true&hide_border=true)
 
-
+-->
